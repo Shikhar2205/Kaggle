@@ -1,1 +1,1 @@
-# Kaggle
+# Kaggle notebooks for competitions
