@@ -1,1 +1,1 @@
-# Kaggle notebooks for competitions
+# python scripts for kaggle competitions
